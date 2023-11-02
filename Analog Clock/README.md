@@ -1,0 +1,1 @@
+This project features a stylish clock design with customizable colors, sleek animations, and clear numbering for each hour. The clock is centered on a dark-themed background, making it a beautiful addition to your web applications. Feel free to customize the design further and integrate it into your web projects.
